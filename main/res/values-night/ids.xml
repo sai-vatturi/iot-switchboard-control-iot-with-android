@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="clockwiseButton" type="id" />
+    <item name="section4Text" type="id" />
+    <item name="rotatingBaseOffButton" type="id" />
+    <item name="rotatingBaseOnButton" type="id" />
+    <item name="section3Text" type="id" />
+    <item name="rotatingBaseHeading" type="id" />
+    <item name="holdableButton" type="id" />
+    <item name="section2Text" type="id" />
+    <item name="buttonOn5Secs" type="id" />
+    <item name="section1Text" type="id" />
+    <item name="waterPumpHeading" type="id" />
+</resources>
